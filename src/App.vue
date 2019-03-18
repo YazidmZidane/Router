@@ -1,10 +1,10 @@
 <template>
 	<div id="app">
-		<img width="800px" height="250px" alt="Vue logo" sr c="./assets/dis.png">
+		<img width="200px" height="200px" alt="Vue logo" src="./assets/logo.png">
 		<HelloWorld msg="Know thou System"/>
-		<router-link to="/kelas">Data Kelas</router-link>
-		<router-link to="/kelas">Data Siswa</router-link>
-		<br><router-link to="/kelas/tambah">Tambah Data Kelas</router-link>&nbsp
+		<router-link to="/kelas">Data Kelas</router-link>&nbsp;
+		<router-link to="/siswa">Data Siswa</router-link>
+		<br><router-link to="/kelas/tambah">Tambah Data Kelas</router-link>&nbsp;
 		<router-link to="/siswa/tambah">Tambah Data Siswa</router-link>
 		<router-view/>
 	</div>

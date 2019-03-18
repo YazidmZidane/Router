@@ -2,21 +2,21 @@
   <div><br>
     <center>
     <table border="1">
-      <tr>
-        <td><center><b>Teknik Informatika</b></center></td>
-        <td><center><b>Teknik Listrik</b></center></td>
+      <tr>        
+        <td><center><b>Nama Kelas</b></center></td>
+        <td><center><b>Jurusan</b></center></td>
       </tr>
       <tr>
+        <td>XII TKJ 1</td>
+        <td>Teknik Komputer Jaringan</td>
+      </tr>
+      <tr>
+        <td>XII RPL 3</td>
         <td>Rekayasa Perangkat Lunak</td>
-        <td>Audio Video</td>
       </tr>
       <tr>
-        <td>Tehnik Kerja Jaringan</td>
-        <td>Teknik Otomasi Industri</td>
-      </tr>
-      <tr>
+        <td>X MM 20</td>
         <td>Multimedia</td>
-        <td>Teknik Instalasi Tenaga Listrik</td>
       </tr>
     </table>
     </center>
